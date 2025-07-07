@@ -80,10 +80,4 @@ File: players_21.csv
 
 Includes stats for 18,944 players from FIFA 21 with 100+ attributes.
 
-Future Work
-Combine FIFA 15–21 data to analyze player evolution.
-
-Train regression models (e.g., predict market value or overall rating).
-
-Try clustering (e.g., player archetypes) or NLP on player names.
 
